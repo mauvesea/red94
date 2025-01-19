@@ -20,10 +20,10 @@ SpriteSheetPointerTable:
 	overworld_sprite GamblerSprite, 12          ; SPRITE_GAMBLER
 	overworld_sprite SuperNerdSprite, 12        ; SPRITE_SUPER_NERD
 	overworld_sprite GirlSprite, 12             ; SPRITE_GIRL
-	overworld_sprite HikerSprite, 12            ; SPRITE_HIKER
+	overworld_sprite HikerSprite, 12            ; SPRITE_HIKER > Little Girl
 	overworld_sprite BeautySprite, 12           ; SPRITE_BEAUTY
 	overworld_sprite GentlemanSprite, 12        ; SPRITE_GENTLEMAN
-	overworld_sprite DaisySprite, 12            ; SPRITE_DAISY
+	overworld_sprite ChairmanSprite, 12         ; SPRITE_CHAIRMAN
 	overworld_sprite BikerSprite, 12            ; SPRITE_BIKER
 	overworld_sprite SailorSprite, 12           ; SPRITE_SAILOR
 	overworld_sprite CookSprite, 12             ; SPRITE_COOK
@@ -37,7 +37,7 @@ SpriteSheetPointerTable:
 	overworld_sprite MiddleAgedWomanSprite, 12  ; SPRITE_MIDDLE_AGED_WOMAN
 	overworld_sprite BrunetteGirlSprite, 12     ; SPRITE_BRUNETTE_GIRL
 	overworld_sprite LanceSprite, 12            ; SPRITE_LANCE
-	overworld_sprite ScientistSprite, 12        ; SPRITE_UNUSED_SCIENTIST
+	overworld_sprite FatherSprite, 12           ; SPRITE_FATHER
 	overworld_sprite ScientistSprite, 12        ; SPRITE_SCIENTIST
 	overworld_sprite RockerSprite, 12           ; SPRITE_ROCKER
 	overworld_sprite SwimmerSprite, 12          ; SPRITE_SWIMMER
@@ -56,12 +56,13 @@ SpriteSheetPointerTable:
 	overworld_sprite FisherSprite, 12           ; SPRITE_FISHER
 	overworld_sprite KogaSprite, 12             ; SPRITE_KOGA
 	overworld_sprite GuardSprite, 12            ; SPRITE_GUARD
-	overworld_sprite GuardSprite, 12            ; SPRITE_UNUSED_GUARD
+	overworld_sprite HermitSprite, 12           ; SPRITE_HERMIT
 	overworld_sprite MomSprite, 12              ; SPRITE_MOM
 	overworld_sprite BaldingGuySprite, 12       ; SPRITE_BALDING_GUY
 	overworld_sprite LittleBoySprite, 12        ; SPRITE_LITTLE_BOY
-	overworld_sprite GameboyKidSprite, 12       ; SPRITE_UNUSED_GAMEBOY_KID
+	overworld_sprite GameboyGirlSprite, 12      ; SPRITE_GAMEBOY_GIRL
 	overworld_sprite GameboyKidSprite, 12       ; SPRITE_GAMEBOY_KID
+	overworld_sprite VirtualboyKidSprite, 12    ; SPRITE_VIRTUALBOY_KID
 	overworld_sprite FairySprite, 12            ; SPRITE_FAIRY
 	overworld_sprite AgathaSprite, 12           ; SPRITE_AGATHA
 	overworld_sprite BrunoSprite, 12            ; SPRITE_BRUNO

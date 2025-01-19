@@ -1,12 +1,14 @@
 _SilphCo7FSilphWorkerM1HaveThisPokemonText::
-	text "Oh! Hi! You're"
-	line "not a ROCKET! You"
-	cont "came to save us?"
-	cont "Why, thank you!"
+	text "Oh! <PLAYER>!"
+	line "It's me, your dad!"
+
+	para "What? You came"
+	cont "here to save us?"
+	cont "I'm impressed!"
 
 	para "I want you to"
 	line "have this #MON"
-	cont "for saving us."
+	cont "for your efforts."
 	prompt
 
 _SilphCo7FSilphWorkerM1LaprasDescriptionText::

@@ -48,7 +48,7 @@ GirlSprite::             INCBIN "gfx/sprites/girl.2bpp"
 HikerSprite::            INCBIN "gfx/sprites/hiker.2bpp"
 BeautySprite::           INCBIN "gfx/sprites/beauty.2bpp"
 GentlemanSprite::        INCBIN "gfx/sprites/gentleman.2bpp"
-DaisySprite::            INCBIN "gfx/sprites/daisy.2bpp"
+ChairmanSprite::         INCBIN "gfx/sprites/chairman.2bpp"
 BikerSprite::            INCBIN "gfx/sprites/biker.2bpp"
 SailorSprite::           INCBIN "gfx/sprites/sailor.2bpp"
 CookSprite::             INCBIN "gfx/sprites/cook.2bpp"
@@ -68,6 +68,14 @@ LittleBoySprite::        INCBIN "gfx/sprites/little_boy.2bpp"
 GameboyKidSprite::       INCBIN "gfx/sprites/gameboy_kid.2bpp"
 FairySprite::            INCBIN "gfx/sprites/fairy.2bpp"
 AgathaSprite::           INCBIN "gfx/sprites/agatha.2bpp"
-BrunoSprite::            INCBIN "gfx/sprites/bruno.2bpp"
-LoreleiSprite::          INCBIN "gfx/sprites/lorelei.2bpp"
+BrunoSprite::
+LoreleiSprite::
 SeelSprite::             INCBIN "gfx/sprites/seel.2bpp"
+
+
+SECTION "NPC Sprites 3", ROMX
+
+FatherSprite::             INCBIN "gfx/sprites/father.2bpp"
+HermitSprite::             INCBIN "gfx/sprites/hermit.2bpp"
+GameboyGirlSprite::        INCBIN "gfx/sprites/gameboy_girl.2bpp"
+VirtualboyKidSprite::      INCBIN "gfx/sprites/virtualboy_kid.2bpp"
